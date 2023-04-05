@@ -1,0 +1,31 @@
+.navbar {
+     display: inline;
+     font-family: #000;
+     background-color: brown;
+}
+body {
+    font-family: 'roboto';
+}
+.about-section {
+    background-color: #a8a1a1;
+    padding: 20px;
+  }
+  
+  .work-section {
+    background-color: #ddd;
+    padding: 20px;
+  }
+  
+  .resume-section {
+    background-color: #a8a1a1;
+    padding: 20px;
+  }
+  
+  .contact-section {
+    background-color: #ddd;
+    padding: 20px;
+  }
+  footer {
+    text-align: center;
+    font-family: #000
+  }
